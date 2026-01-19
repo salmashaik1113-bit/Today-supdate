@@ -15,7 +15,8 @@ public class SIM{
         s2.Firstname="aaa";
         s2.Secondname="eee";
         s2.Aadharnumber=22222;
-        s2.DOB="2-02-1999";
+        s2.DOB="2-02-1999"
+        ;
         System.out.println(s1.Firstname);
         System.out.println(s1.Secondname);
         System.out.println(s1.Aadharnumber);
